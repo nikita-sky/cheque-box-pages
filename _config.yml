@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : cheque-box                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Simpliest money tracker.
+app_description                           : Simpliest money tracker
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Works offline
     description                           : Doesn't need internet connection. Works with local database on your phone.
-    fontawesome_icon_name                 : wifi-slash
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Dashboard
     description                           : All your expenses are available on the first screen.
-    fontawesome_icon_name                 : grid-horizontal
+    fontawesome_icon_name                 : star
 
   - title                                 : Customizable
     description                           : You are free to edit any categories.
-    fontawesome_icon_name                 : pen-to-square
+    fontawesome_icon_name                 : adjust
 
   - title                                 : As simple as possible
     description                           : Track your money as simple as possible.
