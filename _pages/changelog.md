@@ -5,12 +5,17 @@ include_in_header: true
 ---
 
 # Changelog
-List of latest updates.
+This page contains list of release versions.
 
 <br>
 
-### `Latest`
-# **Version 2.1**
+### **Version 2.1.3**
+Continue to work on UI and UX.
+
+#### What's New
+ - Continue to work on UI and UX.
+
+### **Version 2.1**
 Redesign was made. Few bugs were fixed.
 
 #### What's New
