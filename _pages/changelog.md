@@ -13,11 +13,11 @@ This page contains list of release versions.
 Continue to work on UI and UX.
 
 #### What's New
-- Redesign main screen.
+- Redesign main screen
+- Return old app icon back
 
 #### Bug Fixes
 - Fixed bug with date items on History screen
-
 
 ### **Version 2.1.3**
 Continue to work on UI and UX.
