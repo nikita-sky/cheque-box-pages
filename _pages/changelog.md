@@ -9,11 +9,18 @@ This page contains list of release versions.
 
 <br>
 
-### **Version 2.1.3**
+### **Version 2.1.5**
 Continue to work on UI and UX.
 
 #### What's New
- - Continue to work on UI and UX.
+- Redesign main screen.
+
+#### Bug Fixes
+- Fixed bug with date items on History screen
+
+
+### **Version 2.1.3**
+Continue to work on UI and UX.
 
 ### **Version 2.1**
 Redesign was made. Few bugs were fixed.
