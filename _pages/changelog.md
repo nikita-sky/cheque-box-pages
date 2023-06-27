@@ -9,8 +9,12 @@ This page contains list of release versions.
 
 <br>
 
+### **Version 2.5.6**
+- Record screen was fixed: log another switch hides when editing a record
+- Dashboard screen: made banner with message faster with 2 sec delay (was 3 sec)
+
 ### **Version 2.1.5**
-Continue to work on UI and UX.
+- Continue to work on UI and UX.
 
 #### What's New
 - Redesign main screen
